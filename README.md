@@ -2,7 +2,10 @@
 
 [![License]](#license)
 
+JSON-RPC Interfaces for [CITA].
+
 [License]: https://img.shields.io/badge/License-Apache--2.0%20OR%20MIT-blue.svg
+[CITA]: https://github.com/cryptape/cita
 
 ## License
 
